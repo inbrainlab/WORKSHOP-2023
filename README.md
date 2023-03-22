@@ -15,5 +15,5 @@ Material utilizado no workshop ministrado em 2023 sobre diversas ferramentas de 
 
 ## fMRI - Pytorch
 
-## 3D Slicer
+## 3DSlicer
 * SlicerPresentationBrainLab.pdf : Apresentação sobre noções básicas de programação e sobre a ferramenta 3D Slicer. 
