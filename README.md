@@ -10,10 +10,7 @@ Material utilizado no workshop ministrado em 2023 sobre diversas ferramentas de 
 * Fundamentos_FreeSurfer_DataScience.ipynb : Notebook para analisar e modelar a saída de dados do FreeSurfer. Esse notebook possui links para acessar sua versão no google colab e outros notebooks mais avançados do mesmo tema.
 
 ## QSM
-
+* Apresentações sobre as etapas de processamento do QSM, sobre o software de segmentação ITK-SNAP e sobre a ferramenta de análise de imagens FSL.
 ## fMRI - CONN
 
 ## fMRI - Pytorch
-
-## 3DSlicer
-* SlicerPresentationBrainLab.pdf : Apresentação sobre noções básicas de programação e sobre a ferramenta 3D Slicer. 
