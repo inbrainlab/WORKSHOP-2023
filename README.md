@@ -12,7 +12,7 @@ Material utilizado no workshop ministrado em 2023 sobre diversas ferramentas de 
 ## QSM
 * Apresentações sobre as etapas de processamento do QSM, sobre o software de segmentação ITK-SNAP e sobre a ferramenta de análise de imagens FSL.
 ## fMRI - CONN
-*https://drive.google.com/drive/folders/1TNMTpMhqb7E5G_ntvB0asNceKmS3wxZc?usp=sharing - Drive com os dados utilizados no CONN
+*https://drive.google.com/drive/folders/1TNMTpMhqb7E5G_ntvB0asNceKmS3wxZc?usp=sharing - Drive com os dados utilizados no CONN, para utilizar basta baixar a pasta localmente e abrir o arquivo conn_Workshop_Inbrain.mat dentro do CONN. 
 
 
 ## fMRI - Pytorch
