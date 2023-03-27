@@ -16,4 +16,5 @@ Material utilizado no workshop ministrado em 2023 sobre diversas ferramentas de 
 
 
 ## fMRI - Pytorch
+* Nesta apresentação estão presentes noções básicas do uso de deep learning aplicado a ressonância magnética funcional através da plataforma PyTorch, além de alguns resultados obtidos com o modelo apresentado.
 * O conjunto de dados e o notebook (gabarito) apresentados no workshop estão disponíveis no seguinte link: https://www.kaggle.com/datasets/erickalmeidadesouza/dyn-fc
